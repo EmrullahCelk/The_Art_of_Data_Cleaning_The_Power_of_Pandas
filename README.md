@@ -117,3 +117,6 @@ Within the scope of the project, a series of operations were performed on two di
 
 ## How to Run:
 To run the project, you need Python and Jupyter Notebook environment. Clone the project files to your computer (https://github.com/EmrullahCelk/The_Art_of_Data_Cleaning_The_Power_of_Pandas.git) and run the project by installing the necessary dependencies. Additionally, you can view the project steps and results in the (Data_Cleaning.ipynb) file
+
+## License:
+This project is licensed under the MIT License.
