@@ -5,14 +5,21 @@ This project encompasses a real-world example of data analysis and cleaning carr
 # Project Description
 
 Within the scope of the project, a series of operations were performed on two different datasets containing population and address data of the Netherlands. The key features of Pandas and commonly used methods for data loading, exploration, cleaning, and analysis steps are demonstrated.
+
 ## Data Description:
 ### Population.csv:
   The population dataset contains population data for the years 2019, 2020, 2021, 2022, and 2023 for the Netherlands. The columns in your dataset are as follows:
+  
   postcode: Postal code
+  
   year: Year
+  
   total: Total population
+  
   with_migration_background: Total population with migration background
+  
   of_dutch_origin: Population of Dutch origin
+  
   of_western_migration_origin: Population of Western migration origin
   afrika: Population of African origin
   amerika: Population of American origin
